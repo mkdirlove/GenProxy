@@ -44,4 +44,6 @@ optional arguments:
                         Output file to save proxies
   -tr {random,tier1,tier2}, --tier {random,tier1,tier2}
                         Tier for proxy
+                        
+                        enjoy..
 ```
